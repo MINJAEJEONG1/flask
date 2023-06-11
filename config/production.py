@@ -2,4 +2,4 @@ from config.default import *
 
 SQLALCHEMY_DATABASE_URI = 'sqlite:///{}'.format(os.path.join(BASE_DIR, 'pybo.db'))
 SQLALCHEMY_TRACK_MODIFICATIONS = False
-SECRET_KEY = b'\xb7r\xa4\xb3\xba\x17q\x071\xbe\xfa\xa2\x89\xb4/\xd0'
+SECRET_KEY = b'\xcf\xd4P\xff\xac\xaf\xc1\x11D\xca\xd3a\xd2\xbc/\x8f'
